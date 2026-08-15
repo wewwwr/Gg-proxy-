@@ -4,3 +4,5 @@ DOMAIN-KEYWORD,digiseller
 DOMAIN-KEYWORD,ggsel
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,philka.ru
+# AppStore fix
+IP-CIDR,151.101.195.6/32
